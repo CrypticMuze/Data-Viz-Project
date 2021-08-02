@@ -1,5 +1,5 @@
-<p>
-<img src="https://github.com/CrypticMuze/Data-Viz-Project/blob/master/Additional_Images/AccidentLogo.png" alt="AccidentLogo" height=250px width=250px/>
+<p align="center">
+<img src="https://github.com/CrypticMuze/Data-Viz-Project/blob/master/Additional_Images/AccidentLogo.png" alt="AccidentLogo" height=200px width=200px/>
 </p>
 
 # Analysis of Road Traffic Casualties Using DV Techniques
